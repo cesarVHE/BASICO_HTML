@@ -1,0 +1,4 @@
+#map {
+    height: 100vh; /* This sets the height to 100% of the viewport height */
+    width: 100vw;  /* This sets the width to 100% of the viewport width */
+}
